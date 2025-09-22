@@ -4,4 +4,6 @@ Portfolio Test
 
 <img width="68" alt="test_photo" src="https://github.com/user-attachments/assets/bfec5b52-9774-4e28-a98b-35a53ecd96fd">
 
-<img width="68" alt="test_photo" src="https://github.com/amrelazizi/amrelazizi.github.io/blob/main/test_photo.png">
+<img width="68" alt="test_photo2" src="https://github.com/amrelazizi/amrelazizi.github.io/blob/main/test_photo.png">
+
+[![Watch the video](https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/blob/main/Centipede_Thumbnail.png)](https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/blob/main/Centipede_Fastest_Motion.MOV)
