@@ -26,8 +26,8 @@ I worked on expanding the original functionality of the [Disco Fingers](https://
 **Project Mercury: CUDA Based Simulator and Evolutionary Development of Underwater Robots**
 
 A year long project to first design both a CUDA based simulation environment (name Project Mercury) for simple spring-mass robots and then to develop algorithms for Evolving Underwater Robots. Done in collaboratino with Dawson Cohen.
-[Evo-Devo Research Paper](./assets/'Evolutionary Development of Soft Body Robotics - Spring 2023.pdf')
-[Project Mercury Research Paper](./assets/'Mercury - Parallel CUDA Based Simulator - Fall 2023.pdf')
+[Evo-Devo Research Paper](./assets/Evolutionary_Development_of_Soft_Body_Robotics.pdf)
+[Project Mercury Research Paper](./assets/Mercury-Parallel_CUDA_Based_Simulator.pdf')
 
 ## Projects
 
