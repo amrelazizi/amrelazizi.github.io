@@ -39,6 +39,9 @@ A year long project to first design both a CUDA based simulation environment (na
 
 A one-semester project to build a robot from scracth with minimal guidance. Along with Desmond O'Malley, I designed a concept for a centipede robot, implimented it in Solid Works, assembled the components, and created the drivers and control loop for its movement.
 
+<img width="300" alt="Centipede Photo 1" src="./assets/Glamour_Centipede_1.png"> <img width="300" alt="Centipede Photo 2" src="./assets/Glamour_Centipede_2.png"> <img width="100" alt="Centipede Photo 3" src="./assets/Glamour_Centipede_3.png">
+
+
 <video height="600" alt="Centipede Video" src="./assets/Centipede_Fastest_Motion.mp4" controls></video>
 
 A full video of our process can be found here: [!ToDo]
@@ -47,8 +50,7 @@ A full video of our process can be found here: [!ToDo]
 
 A project to develop a new metric for evaluating tasks with deformable material. We developed a custom metric utilizing the depth data available in most RGB-D cameras like iphones to evaluate how wrinkled a fabric is. We then combined it with Generalized Intersection over Union ([GIoU](https://giou.stanford.edu/)) to create a unified metric that can evaluate whether a fold is both accurate and clean. This project was later expanded on with a seperate group to develop a database to verify the metric versus expectations by human labelers.
 
-<img height="100" alt="Fold Metric Scale" src="./assets/Fold_losses.png">
-<img width="200" alt="Example Fold" src="./assets/good_fold.gif">
+<img height="100" alt="Fold Metric Scale" src="./assets/Fold_losses.png"> <img width="200" alt="Example Fold" src="./assets/good_fold.gif">
 
 [Research Paper](Wrinkle-attentive_Fabric_Manipulation_Metric.pdf)
 
