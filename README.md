@@ -12,7 +12,7 @@ Portfolio Test 09-22
 
 <img width="68" alt="test_video" src="./assets/Centipede_Fastest_Motion.mp4">
 
-<video src="./assets/Centipede_Fastest_Motion.mp4" controls></video>
+<video alt="test_video2" src="./assets/Centipede_Fastest_Motion.mp4" controls></video>
 
 ![a](./assets/Centipede_Fastest_Motion.mp4)
 
