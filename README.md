@@ -19,13 +19,13 @@ I lead the Electronic and Software design on a new 6-Axis Force Torque sensor de
 
 **Time-Series Models for Tactile Sensing**
 
-I worked on expanding the original functionality of the [Disco Fingers](https://www.engineering.columbia.edu/about/news/highly-dexterous-robot-hand-can-operate-dark-just-us) by introducing time-series data into the models for better prediction accuracy. Results showed that the models were much more precise for data provided during training and less sensitive to noise overall, but worse for extrapolating to new data. Done under the supervision of Eric Chang and Gagan Khandate.
+I worked on expanding the original functionality of the [Disco Fingers](https://www.engineering.columbia.edu/about/news/highly-dexterous-robot-hand-can-operate-dark-just-us) (An Optics-Based Tactile Robot Finger) by introducing time-series data into the models for better prediction accuracy. Results showed that the models were much more precise for data provided during training and less sensitive to noise overall, but worse for extrapolating to new data. Done under the supervision of Eric Chang and Gagan Khandate.
 
 <img width="300" alt="Disco Fingers" src="./assets/Disco-Fingers.png">
 
 **Project Mercury: CUDA Based Simulator and Evolutionary Development of Underwater Robots**
 
-A year long project to first design both a CUDA based simulation environment (name Project Mercury) for simple spring-mass robots and then to develop algorithms for Evolving Underwater Robots. Our CUDA based simulator was able to simulate at 6x markup compared to Titan, the best contemporary simulator at the time. Done in collaboratino with Dawson Cohen.
+A year long project to first design both a CUDA based simulation environment (name Project Mercury) for simple spring-mass robots and then to develop algorithms for Evolving Underwater Robots. Our CUDA based simulator was able to simulate at 6x markup compared to Titan, the best contemporary simulator at the time. Done in collaboration with Dawson Cohen.
 
 <video height="300" alt="Evolved Robots" src="./assets/Robot_Zoo.mp4" controls></video>
 
@@ -37,7 +37,7 @@ A year long project to first design both a CUDA based simulation environment (na
 
 **Robotic Studio - Centipede Robot**
 
-A one-semester project to build a robot from scracth with minimal guidance. Along with Desmond O'Malley, I designed a concept for a centipede robot, implimented it in Solid Works, assembled the components, and created the drivers and control loop for its movement.
+A one-semester project to build a robot from scratch with minimal guidance. Along with Desmond O'Malley, I designed a concept for a centipede robot, implimented it in Solid Works, assembled the components, and created the drivers and control loop for its movement.
 
 <img width="300" alt="Centipede Photo 1" src="./assets/Glamour_Centipede_1.png"> <img width="300" alt="Centipede Photo 2" src="./assets/Glamour_Centipede_2.png"> <img width="200" alt="Centipede Photo 3" src="./assets/Glamour_Centipede_3.jpg">
 
@@ -47,7 +47,7 @@ A full video of our process can be found here: [!ToDo]
 
 **Wrinkle Attentive Fabric**
 
-A project to develop a new metric for evaluating tasks with deformable material. We developed a custom metric utilizing the depth data available in most RGB-D cameras like iphones to evaluate how wrinkled a fabric is. We then combined it with Generalized Intersection over Union ([GIoU](https://giou.stanford.edu/)) to create a unified metric that can evaluate whether a fold is both accurate and clean. This project was later expanded on with a seperate group to develop a database to verify the metric versus expectations by human labelers.
+A project to develop a new metric for evaluating tasks with deformable material. We developed a custom metric utilizing the depth data available in most RGB-D cameras like iPhones to evaluate how wrinkled a fabric is. We then combined it with Generalized Intersection over Union ([GIoU](https://giou.stanford.edu/)) to create a unified metric that can evaluate whether a fold is both accurate and clean. This project was later expanded on with a seperate group to develop a database to verify the metric versus expectations by human labelers.
 
 <img height="100" alt="Fold Metric Scale" src="./assets/Fold_losses.png"> <img width="150" alt="Example Fold" src="./assets/good_fold.gif">
 
@@ -71,7 +71,7 @@ Since high school, I have a variety of experience in tutoring, mentoring, and te
 
 **Tutoring Experience**
 - Private Tutoring throughout Undergraduate and Graduate for Calculus and Engineering
-- Organized an AP Chemist and IB Physics Tutoring cohort for after school hours
+- Organized an AP Chemistry and IB Physics Tutoring cohort for after school hours
 - Organized writing tutoring groups for the literary magazine in High School, including a semester long program for the Special Education program
 
 ## Technical Skills:
