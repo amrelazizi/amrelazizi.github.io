@@ -12,4 +12,8 @@ Portfolio Test 09-22
 
 ![](Centipede_Fastest_Motion.MOV)
 
+https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/main/Centipede_Fastest_Motion.MOV
+
+https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/main/Centipede_Thumbnail.png
+
 [![Watch the video](https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/main/Centipede_Thumbnail.png)](https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/main/Centipede_Fastest_Motion.MOV)
