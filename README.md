@@ -8,11 +8,11 @@ Portfolio Test 09-22
 
 <img width="68" alt="test_photo3" src="test_photo.png">
 
-<img width="68" alt="test_photo3" src="/assets/headshot.pnh">
+<img width="68" alt="test_photo3" src="./assets/headshot.pnh">
 
-<img width="68" alt="test_video" src="/assets/Centipede_Fastest_Motion.mp4">
+<img width="68" alt="test_video" src="./assets/Centipede_Fastest_Motion.mp4">
 
-![a](/assets/Centipede_Fastest_Motion.mp4)
+![a](./assets/Centipede_Fastest_Motion.mp4)
 
 https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/main/assets/Centipede_Fastest_Motion.mp4
 
