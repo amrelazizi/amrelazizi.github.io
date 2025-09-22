@@ -6,4 +6,6 @@ Portfolio Test 09-22
 
 <img width="68" alt="test_photo2" src="https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/blob/main/test_photo.png">
 
+<img width="68" alt="test_photo3" src="test_photo.png">
+
 [![Watch the video](https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/main/Centipede_Thumbnail.png)](https://raw.githubusercontent.com/amrelazizi/amrelazizi.github.io/main/Centipede_Fastest_Motion.MOV)
