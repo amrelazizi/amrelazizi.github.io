@@ -25,8 +25,12 @@ I worked on expanding the original functionality of the [Disco Fingers](https://
 
 **Project Mercury: CUDA Based Simulator and Evolutionary Development of Underwater Robots**
 
-A year long project to first design both a CUDA based simulation environment (name Project Mercury) for simple spring-mass robots and then to develop algorithms for Evolving Underwater Robots. Done in collaboratino with Dawson Cohen.
+A year long project to first design both a CUDA based simulation environment (name Project Mercury) for simple spring-mass robots and then to develop algorithms for Evolving Underwater Robots. Our CUDA based simulator was able to simulate at 6x markup compared to Titan, the best contemporary simulator at the time. Done in collaboratino with Dawson Cohen.
+
+<video height="300" alt="Evolved Robots" src="./assets/Robot_Zoo.mp4" controls></video>
+
 [Evo-Devo Research Paper](./assets/Evolutionary_Development_of_Soft_Body_Robotics.pdf)
+
 [Project Mercury Research Paper](./assets/Mercury-Parallel_CUDA_Based_Simulator.pdf')
 
 ## Projects
@@ -36,11 +40,16 @@ A year long project to first design both a CUDA based simulation environment (na
 A one-semester project to build a robot from scracth with minimal guidance. Along with Desmond O'Malley, I designed a concept for a centipede robot, implimented it in Solid Works, assembled the components, and created the drivers and control loop for its movement.
 
 <video height="600" alt="Centipede Video" src="./assets/Centipede_Fastest_Motion.mp4" controls></video>
+
 A full video of our process can be found here: [!ToDo]
 
 **Wrinkle Attentive Fabric**
 
-A project to develop a new metric for evaluating tasks with deformable material. We developed a custom metric utilizing the depth data available in most RGB-D cameras like iphones to evaluate how wrinkled a fabric is. We then combined it with Generalized Intersection over Union ([GIoU](https://giou.stanford.edu/)) to create a unified metric that can evaluate whether a fold is both accurate and clean.
+A project to develop a new metric for evaluating tasks with deformable material. We developed a custom metric utilizing the depth data available in most RGB-D cameras like iphones to evaluate how wrinkled a fabric is. We then combined it with Generalized Intersection over Union ([GIoU](https://giou.stanford.edu/)) to create a unified metric that can evaluate whether a fold is both accurate and clean. This project was later expanded on with a seperate group to develop a database to verify the metric versus expectations by human labelers.
+
+<img height="100" alt="Fold Metric Scale" src="./assets/Fold_losses.png">
+<img width="200" alt="Example Fold" src="./assets/good_fold.gif">
+
 [Research Paper](Wrinkle-attentive_Fabric_Manipulation_Metric.pdf)
 
 ## Mentoring
