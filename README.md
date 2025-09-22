@@ -11,16 +11,20 @@
 My research at the [ROAM Lab](https://roam.me.columbia.edu/) under [Matei Ciocarlie](https://roam.me.columbia.edu/people/matei-ciocarlie) focused on a mix of Tactile and Force Sensing, Robotic Manipulation and Control based on Tactile Data, and Data-Driven Neural Networks to empower physical sensors. My previous research under [Hod Lipson](https://www.me.columbia.edu/faculty/hod-lipson) was on Evolutionary Robotics and developing CUDA based simulations for better testing of robots.
 
 **Compact LED-Based Displacement Sensing for Robot Fingers**
+
 I lead the Electronic and Software design on a new 6-Axis Force Torque sensor designed to be placed in the joints of a full sensorized robotic hand. Done in Collaboration with Sharfin Islam (Mechanical Lead) and Pedro Piacenza.
 
 <video height="300" alt="6-Axis FT Video" src="./assets/FT_Optic_ICRA.mp4" controls></video>
 [Research Paper](https://arxiv.org/abs/2410.03481)
 
 **Time-Series Models for Tactile Sensing**
+
 I worked on expanding the original functionality of the [Disco Fingers](https://www.engineering.columbia.edu/about/news/highly-dexterous-robot-hand-can-operate-dark-just-us) by introducing time-series data into the models for better prediction accuracy. Results showed that the models were much more precise for data provided during training and less sensitive to noise overall, but worse for extrapolating to new data. Done under the supervision of Eric Chang and Gagan Khandate.
-<img width="68" alt="Disco Fingers" src="./assets/Disco-Fingers.png">
+
+<img width="300" alt="Disco Fingers" src="./assets/Disco-Fingers.png">
 
 **Project Mercury: CUDA Based Simulator and Evolutionary Development of Underwater Robots**
+
 A year long project to first design both a CUDA based simulation environment (name Project Mercury) for simple spring-mass robots and then to develop algorithms for Evolving Underwater Robots. Done in collaboratino with Dawson Cohen.
 [Evo-Devo Research Paper](./assets/'Evolutionary Development of Soft Body Robotics - Spring 2023.pdf')
 [Project Mercury Research Paper](./assets/'Mercury - Parallel CUDA Based Simulator - Fall 2023.pdf')
@@ -28,12 +32,14 @@ A year long project to first design both a CUDA based simulation environment (na
 ## Projects
 
 **Robotic Studio - Centipede Robot**
+
 A one-semester project to build a robot from scracth with minimal guidance. Along with Desmond O'Malley, I designed a concept for a centipede robot, implimented it in Solid Works, assembled the components, and created the drivers and control loop for its movement.
 
 <video height="600" alt="Centipede Video" src="./assets/Centipede_Fastest_Motion.mp4" controls></video>
 A full video of our process can be found here: [!ToDo]
 
 **Wrinkle Attentive Fabric**
+
 A project to develop a new metric for evaluating tasks with deformable material. We developed a custom metric utilizing the depth data available in most RGB-D cameras like iphones to evaluate how wrinkled a fabric is. We then combined it with Generalized Intersection over Union ([GIoU](https://giou.stanford.edu/)) to create a unified metric that can evaluate whether a fold is both accurate and clean.
 [Research Paper](Wrinkle-attentive_Fabric_Manipulation_Metric.pdf)
 
@@ -60,7 +66,9 @@ Since high school, I have a variety of experience in tutoring, mentoring, and te
 
 ## Technical Skills:
 **Coding**: Python, C++, Java, MATLAB, R-Stats, Rust, ROS 1 & 2, Linux
+
 **Design Software**: Altium, Solidworks
+
 **Languages**: English, Arabic, French
 
 <!--
