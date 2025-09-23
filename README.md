@@ -48,8 +48,8 @@ A one-semester project to build a robot from scratch with minimal guidance. Alon
 
 A full video of our process can be found here: 
 <iframe height="300"
-src="https://www.youtube.com/watch?v=ZToy9ocofvY">
-</iframe> 
+src="https://www.youtube.com/embed/ZToy9ocofvY?si=45ux5ayVsfle69Qg">
+</iframe>
 
 **Wrinkle Attentive Fabric**
 
