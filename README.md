@@ -47,8 +47,8 @@ A one-semester project to build a robot from scratch with minimal guidance. Alon
 <video height="300" alt="Centipede Video" src="./assets/Centipede_Fastest_Motion.mp4" controls></video>
 
 A full video of our process can be found here: 
-<iframe width="300"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe height="300"
+src="https://www.youtube.com/watch?v=ZToy9ocofvY">
 </iframe> 
 
 **Wrinkle Attentive Fabric**
