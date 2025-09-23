@@ -14,6 +14,9 @@ My research at the [ROAM Lab](https://roam.me.columbia.edu/) under [Matei Ciocar
 
 I lead the Electronic and Software design on a new 6-Axis Force Torque sensor designed to be placed in the joints of a full sensorized robotic hand. Done in Collaboration with Sharfin Islam (Mechanical Lead) and Pedro Piacenza.
 
+<img width="300" alt="Disco Fingers" src="./assets/6_axis_design.png">
+<img width="300" alt="Disco Fingers" src="./assets/Both_Hands.png">
+
 <video height="300" alt="6-Axis FT Video" src="./assets/FT_Optic_ICRA.mp4" controls></video>
 [Research Paper](https://arxiv.org/abs/2410.03481)
 
