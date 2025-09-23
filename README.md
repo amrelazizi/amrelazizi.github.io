@@ -42,9 +42,8 @@ A year long project to first design both a CUDA based simulation environment (na
 
 A one-semester project to build a robot from scratch with minimal guidance. Along with Desmond O'Malley, I designed a concept for a centipede robot, implimented it in Solid Works, assembled the components, and created the drivers and control loop for its movement.
 
-<img width="300" alt="Centipede Photo 1" src="./assets/Glamour_Centipede_1.png"> <img width="300" alt="Centipede Photo 2" src="./assets/Glamour_Centipede_2.png"> <img width="200" alt="Centipede Photo 3" src="./assets/Glamour_Centipede_3.jpg">
-
-<video height="300" alt="Centipede Video" src="./assets/Centipede_Fastest_Motion.mp4" controls></video>
+<img width="300" alt="Centipede Photo 1" src="./assets/Glamour_Centipede_1.png"> <img width="300" alt="Centipede Photo 2" src="./assets/Glamour_Centipede_2.png">
+<img height="300" alt="Centipede Photo 3" src="./assets/Glamour_Centipede_3.jpg"> <video height="300" alt="Centipede Video" src="./assets/Centipede_Fastest_Motion.mp4" controls></video>
 
 A full video of our process can be found here: 
 <iframe width="560" height="315"
